@@ -1,0 +1,6 @@
+D:\UTT\4 Cuatrimestre\Estructura de datos\Cola -Doble-Circular-V2\Cola -Doble-Circular-V2\bin\Debug\Cola -Doble-Circular-V2.exe.config
+D:\UTT\4 Cuatrimestre\Estructura de datos\Cola -Doble-Circular-V2\Cola -Doble-Circular-V2\bin\Debug\Cola -Doble-Circular-V2.exe
+D:\UTT\4 Cuatrimestre\Estructura de datos\Cola -Doble-Circular-V2\Cola -Doble-Circular-V2\bin\Debug\Cola -Doble-Circular-V2.pdb
+D:\UTT\4 Cuatrimestre\Estructura de datos\Cola -Doble-Circular-V2\Cola -Doble-Circular-V2\obj\Debug\Cola -Doble-Circular-V2.csprojResolveAssemblyReference.cache
+D:\UTT\4 Cuatrimestre\Estructura de datos\Cola -Doble-Circular-V2\Cola -Doble-Circular-V2\obj\Debug\Cola -Doble-Circular-V2.exe
+D:\UTT\4 Cuatrimestre\Estructura de datos\Cola -Doble-Circular-V2\Cola -Doble-Circular-V2\obj\Debug\Cola -Doble-Circular-V2.pdb
